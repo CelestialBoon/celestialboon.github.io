@@ -1,0 +1,1 @@
+The occult section is what you'd expect; it's material pertaining to the more straightforwardly esoteric, the tried and true ways of outputting changes in the world (including ourselves) through application of will.

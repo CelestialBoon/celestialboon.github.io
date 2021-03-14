@@ -1,0 +1,1 @@
+[My thoughts on Game Freak's treatment of the pokémon series](other/2021-02-07-pokemon-decline.md)
