@@ -23,6 +23,7 @@
 
 - [**Dreaming**](dream/)
 - [Useful sites compilation](dream/2009-11-09-useful-sites-compilation.md)
+- [Dream interpretation guide](dream/2021-03-15-dream-interpretation.md)
 - [Dream Control Training Course](dream/2010-01-10-dream-control-training-course.md)
 - [Beyond the Impossible](dream/2010-01-13-beyond-the-impossible.md)
 - [Active and Passive Control](dream/2010-05-10-active-passive-control.md)
@@ -48,4 +49,4 @@
 
 ----
 
-<!-- - [Changelog](changelog.md) -->
+- [Changelog](changelog.md)
