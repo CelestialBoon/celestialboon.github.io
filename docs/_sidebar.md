@@ -3,8 +3,13 @@
 ----
 
 - [**Philosophy**](philosophy/)
-- [Beliefs and models p1](philosophy/2018-07-23-beliefs-are-partial.md)
-- [Beliefs and models p2](philosophy/2018-07-24-models-are-false.md)
+- [Beliefs and Models p1](philosophy/2018-07-23-beliefs-are-partial.md)
+- [Beliefs and Models p2](philosophy/2018-07-24-models-are-false.md)
+- [On Ego, Self and Plurality](philosophy/2019-12-21-self-as-many.md)
+- [Ego and Memory](philosophy/2019-12-23-ego-and-memory.md)
+- [Time and Memory](philosophy/2020-12-28-time-and-memory.md)
+- [Self-esteem and self-realization](philosophy/2020-05-22-self-realization.md)
+- [On Fear](philosophy/2021-02-07-on-fear.md)
 - [GP (Within): Fear](philosophy/2018-07-25-within-fear.md)
 
 ----
