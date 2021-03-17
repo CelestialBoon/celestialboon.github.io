@@ -1,3 +1,13 @@
+---
+title: "Self-lying"
+date: "2020-10-31"
+---
+# {{title}}
+
+#### {{date}}
+
+<br>
+
 Just realized that Italian has a single word (desiderio) for both desire and wish. With the funny implication that the English-speaker could possibly wish for something that they don't desire, which doesn't only sound absurd, but is linguistically disallowed in Italian.
 6:31 AM · Oct 31, 2020·Twitter Web App
 View Tweet activity

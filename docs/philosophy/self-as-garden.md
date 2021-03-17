@@ -1,3 +1,13 @@
+---
+title: "Self as garden"
+date: "2020-01-16"
+---
+# {{title}}
+
+#### {{date}}
+
+<br>
+
 https://twitter.com/celestialboon/status/1217728164602032128
 
 Basically think of yourself as a garden - you find out that you've been piling up garbage in it from the outside, and the first step (they blend, but still) is removing the garbage (unlearning conditioning, healing trauma). That leaves the garden mostly empty, ideally.

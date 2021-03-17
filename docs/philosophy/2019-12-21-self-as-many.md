@@ -8,6 +8,8 @@ date: "2019-12-21"
 
 <br>
 
+## The Ego and the Self
+
 Starting out, what *is* the ego? The definition I'll use is, the ego is a mental pattern of identification, that is, of a "me"-making. It is the periodic thoughts that attribute this or that thing (thoughts, feelings etc.) as me, and some others (eg. objects, body) as mine.
 
 It bears repeating that the ego is just that: a mental pattern. Things go on inside and outside of the body, and the ego is what gets to call some things me or mine. It is a thought among thoughts, and the disappearance of the ego does not compromise much of any other function
@@ -120,7 +122,7 @@ In short, the entrenching of the ego as fundamental, irrevocable, endemic part o
 
 ---
 
-## Self as Many
+## Fluid Plurality, or Self-as-Many
 
 If so, what's a reasonable alternative to ego?  
 The no-self is very cool and all, but it is fundamentally a *non-model*—it is the express refusal to think in terms of separate selves, and while truER to experience, it doesn't cut much mustard when navigating social life.

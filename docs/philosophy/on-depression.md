@@ -1,3 +1,13 @@
+---
+title: "On Depression"
+date: "2020-01-18"
+---
+# {{title}}
+
+#### {{date}}
+
+<br>
+
 How does one stop feeling depressed? You describe it like something that’s under conscious control.
 
 Also, depression reduces the capacity to act but increases the capacity to see clearly. Both are important if you want to be of some help.

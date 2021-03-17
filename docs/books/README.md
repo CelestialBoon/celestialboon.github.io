@@ -1,0 +1,1 @@
+This section collects the occasional notes I've jotted down about a book I was reading that was particularly impactful on me. The links to said book are usually inside the notes.
