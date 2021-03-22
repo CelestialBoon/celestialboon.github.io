@@ -1,3 +1,5 @@
+2021-03-22: Added nanachi
+
 2021-03-18: Added procrastination and self-image
 
 2021-03-17: added book section (biophilia effect, scattered, hangovers, continuum concept), trick to alchemy, neural annealing, paradoxes, equanimity, competition, accepting compliments
