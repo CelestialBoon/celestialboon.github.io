@@ -1,1 +1,1 @@
-[My thoughts on Game Freak's treatment of the pokémon series](other/2021-02-07-pokemon-decline.md)
+Just odds and ends. The articles and musings that don't fit into other categories.

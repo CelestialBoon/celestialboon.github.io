@@ -35,3 +35,7 @@ This site is mainly aimed at the spiritual person—that is, the truth-seeker.
 ## Where are these quotes from?
 
 All quotes without attribution come from the [Wingmakers Materials](//wingmakers.com). It is a large collection of philosophical, narrative, and lyrical texts, along with audio and sound multimedia, designed to expand the consciousness of the inquirer and student.
+
+## How is this site made?
+
+Just github-hosted [docsify](https://docsify.js.org/) plus some CSS tinkering, very painless and straightforward. I thank Vega of [Opinionated Guides](https://opguides.info/posts/howimakeopguides/) for the tip, and the layout inspiration.
