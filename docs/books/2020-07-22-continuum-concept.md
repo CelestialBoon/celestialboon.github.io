@@ -20,13 +20,13 @@ Instead, we are left in cots while we instinctively scream and cry, denouncing t
 
 Part of the human continuum goes beyond instinct and well into imprinting, just like an animal imprints on its "mother" at birth. A human is primed to absorb the expectations, behaviors, and culture surrounding them, making it all part of their instinctual behaviour.
 
-But what happens when the love we *expect* to receive gets denied? Through the large blunders of our caretakers, we learn that we are not loved; that our cries go unheard; that people will not fulfill our basic needs. This becomes part of our core expectations about the world.
+But what happens when *the love we expect to receive gets denied*? Through the large blunders of our caretakers, we learn that we are not loved; that our cries go unheard; that people will not fulfill our basic needs. This becomes part of our core expectations about the world.
 
-A human, which could naturally become seamlessly integrated in a collaborative society, by this treatment becomes anti-social, and anti-self. Society treats them wrong, but a kid cannot conceive of that. At that age, their continuum expects to be exposed to the *right* ways.
+A human, which could naturally become seamlessly integrated in a collaborative society, by this treatment becomes anti-social, and anti-self. Society treats them wrong, but a kid cannot conceive of that. At that age, their continuum expects to be *exposed to the right ways*.
 
 So the alternative is that it is the kid that must somehow be wrong. And this sense of wrongness, of alienation, can stick with people for a lifetime, never letting them feel truly part of something larger, without creeping doubts, without fears, without worries.
 
-Worse still, people conditioned in this manner will *actively* resist any and all events that would destabilize conditions similar to their early treatment (including for the better!!!), specifically because the continuum expects to be exposed in infancy to optimal conditions!
+Worse still, people conditioned in this manner will *actively resist any and all events* that would destabilize conditions similar to their early treatment (including for the better!!!), specifically because the continuum expects to be exposed in infancy to optimal conditions!
 
 This leads to people endlessly repeating cycles of misery, subconsciously dragging themselves each and every time back to situations that they claim to not want (abusive partners, poverty, rejection etc.)
 
@@ -44,5 +44,5 @@ It is specifically this unconditional acceptance from the world, which does not 
 
 It is this quiet joy for *just existing* that we need to fill ourselves with, and that we can summon through the most basic acceptance of ourselves, and of life. Quiet, meditative, loving moments are a wonderful opportunity to gradually fill our quotas.
 
-This is but the most basic summary+elaboration upon Jean Liedloff's work - I *cannot* recommend enough that people familiarize with her work. It can easily be life-changing, and not just for readers, but for their kids.
+This is but the most basic summary+elaboration upon Jean Liedloff's work - I *cannot recommend enough that people familiarize with her work*. It can easily be life-changing, and not just for readers, but for their kids, present and future.
 

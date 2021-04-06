@@ -18,9 +18,9 @@ Such systems in general have access to a recovery mode (vs the usual activity mo
 
 Pain is a strong body signal for damage incurred, and incentive for the individual to stop activity and enter a recovery phase. For example, with hangovers, the body signals the need to rest to repair the damage from the alcohol poisoning.
 
-The mental/emotional systems possess similar dynamics (eg. grief as means to arrest normal functioning and open the opportunity to restructure inner+outer dynamics), but they are more prone to complications, in part because they are *more* equipped at dealing w/damage.
+The mental/emotional systems possess similar dynamics (eg. grief as means to arrest normal functioning and open the opportunity to restructure inner+outer dynamics), but they are more prone to complications, in part *because they are more equipped at dealing with damage*.
 
-What happened to many of us is, as infants and children we receive blows we are not equipped to process and digest. What happens then is the enactment of a *containment* procedure, aimed at limiting the damage, and to ensure survival until a future point of possible healing.
+What happened to many of us is, as infants and children we receive blows we are not equipped to process and digest. What happens then is the enactment of a *containment procedure*, aimed at limiting the damage, and to ensure survival until a future point of possible healing.
 
 Imagine someone got struck with a barbed arrow, that they didn't know how to remove without inflicting further tremendous damage. People around are just making things worse when asked for help; so what the victim does is break the shaft, cover up the wound, and try to move on.
 

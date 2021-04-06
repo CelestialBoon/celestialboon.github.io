@@ -71,6 +71,6 @@ A good way to understand cocreation is to use the M.C. Escher lithograph `Drawin
 
 The left hand creates the right hand. The right hand creates the left hand. They both create each other without there even having to be an original source anymore, in a strange loop of recursion. They are the source.  
 
-*You* are the source. You are the root of the strange loop. You matter because you can change how you create the universe. Even if your changes only affect some “local” part of this universe, your actions may end up kicking off processes you could never even have conceived happening.
+**You** are the source. You are the root of the strange loop. You matter because you can change how you create the universe. Even if your changes only affect some “local” part of this universe, your actions may end up kicking off processes you could never even have conceived happening.
 
 Life is a gift. Each of us is a creator of a personal world, that can be made beautiful, and that can enrich *other worlds*. We are life’s gift. What other reason does there need to exist to be grateful for?

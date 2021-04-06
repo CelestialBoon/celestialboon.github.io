@@ -40,7 +40,7 @@ Is the picture getting clearer?
 
 Procrastination is a sub-process (one could even say a failure mode) of self-image management.
 
-When we have a certain image to maintain (and thus to maintain *performatively*), then we are pressured to act out behaviours that sustain that self-image. For example, doing homework on time and taking as many hours as it needs is for the diligent, *average*, *boring* students, while doing the assignment under much tighter constraints (such as the precious few hours before the deadline) is something only someone *smart* and very *capable* could manage. Thus, we use the occasion to reaffirm the image of someone capable and intelligent by placing ourselves in tight, limiting and suboptimal conditions, digging ourselves a hole that we can later claw our way out of.
+When we have a certain image to maintain (and thus to *maintain performatively*), then we are pressured to act out behaviours that sustain that self-image. For example, doing homework on time and taking as many hours as it needs is for the diligent, AVERAGE, BORING students, while doing the assignment under much tighter constraints (such as the precious few hours before the deadline) is something only someone SMART and very CAPABLE could manage. Thus, we use the occasion to reaffirm the image of someone capable and intelligent by placing ourselves in tight, limiting and suboptimal conditions, digging ourselves a hole that we can later claw our way out of.
 
 Notice how this unhealthy mechanism is born out of the seemingly-harmless but actually quite deleterious goals/expectations we put on people, especially early on in life (where they're most influential/damaging). For example, how parents expect (or at least wish for) their kids to be not just smart, but *smarter than average*, to be *better than peers*, so that they can win contests and prevail in life within a hyper-competitive society. Such a pressure to be (and thus, project/perform the image of) someone-better-than-others pushes people to put themselves in situations where they are constrained in tighter bindings than what is asked of them; or rather, than what is expected of the *average student/worker/person*.
 
@@ -50,7 +50,7 @@ This is an image that many overworkers maintain in life (being people who work h
 
 ---
 
-That said, there's limits to human nature, so what happens when those expectations exceed said limits? Tragically, a collapse of the pretense of self-image is very rare in our society; what instead happens is defense mechanisms: rationalizations that make up excuses for ourselves as for why we couldn't do the project in time, even though we're so smart and capable and we could have *totally* done it, even in the last day, even with all that anxiety and pressure breathing down our necks.
+That said, there's limits to human nature, so what happens when those expectations exceed said limits? Tragically, a collapse of the pretense of self-image is very rare in our society; what instead happens is defense mechanisms: rationalizations that make up excuses for ourselves as for why we couldn't do the project in time, even though we're so smart and capable and we could have TOTALLY done it, even in the last day, even with all that anxiety and pressure breathing down our necks.
 
 Even if we didn't make it, somehow we still could have possibly done it that way, and *thinking we could* is the part that really matters. Thinking that *we could* is entirely the goal of the mechanism of preservation of self-image, and what keeps the charade going.
 
@@ -58,15 +58,15 @@ I'll repeat here. If people admitted that no, they put too much strain and too m
 
 In our society, which lacks the frameworks and the structures and the overall culture to really support a shift of this import, this is a terrifying prospect, and is thus avoided at all costs.
 
-The alternative, thus, is to keep living the lie, making us feel good all the while believing that we *are* that capable, if only we didn't do Bullshit Decision #5 or #46 or if Bad Thing #93 didn't happen to us that time.
+The alternative, thus, is to keep living the lie, making us feel good all the while believing that we ARE that capable, if only we didn't do Bullshit Decision #5 or #46 or if Bad Thing #93 didn't happen to us that time.
 
-Some things are procrastinated indefinitely because facing them would face us with our inexperience, with our inadequacy, or whatever event that would destabilize our social standing, or at least upset our self-image; all of which would be a direct blow to our fragile ego, which in self-defense postpones the act indefinitely while still affirming that yes, *obviously* that's a thing we can do, we just won't right now because XYZ.
+Some things are procrastinated indefinitely because facing them would face us with our inexperience, with our inadequacy, or whatever event that would destabilize our social standing, or at least upset our self-image; all of which would be a direct blow to our fragile ego, which in self-defense postpones the act indefinitely while still affirming that yes, OBVIOUSLY that's a thing we can do, we just won't right now because XYZ.
 
 ---
 
 In a world where personal change is disincentivized, many people's best option is to continue sticking to the original plan despite all else; to hold to their mask come hell or high water.
 
-Some examples of this dis-incentivization are a culture that doesn't encourage experimentation and rarely forgives, operating on multiple levels on the "Once Bad, Always Bad" principle (see: permanent grade history, criminal records, cancel culture, etc.). While such a system is *not* unjustified in the current environment, it is a sick piece of a sick society puzzle; only with a radically (at-the-roots) different society would a different methodology be the most reasonable at large.
+Some examples of this dis-incentivization are a culture that doesn't encourage experimentation and rarely forgives, operating on multiple levels on the "Once Bad, Always Bad" principle (see: permanent grade history, criminal records, cancel culture, etc.). While such a system is NOT unjustified in the current environment, it is a sick piece of a sick society puzzle; only with a radically (at-the-roots) different society would a different methodology be the most reasonable at large.
 
 This, of course, leads to a very toxic environment where people are at no point incentivized to *be themselves*: that is, people with their own peculiarities and differences (instead of being stamped out into conformity and compliance through "education"), their own life paths (insted of the pre-arranged school and carreer paths), their own freedom to make mistakes (instead of a culture that will hold their mistakes against them forever), and their ability to bring something unique to the world (where instead only the most basic of instruction-following is required of the vast majority of people for the majority of their time).
 
@@ -86,7 +86,7 @@ As a (what is by now a) small aside, structured procrastination— which is the 
 
 - A non-trivial amount of doublethink.
 
-Like most of what gets built on top of Western society, it is a perverse adaptation to a perverse situation; it *works*, but there are much better alternatives given the option of a much more inclusive path of healing.
+Like most of what gets built on top of Western society, it is a perverse adaptation to a perverse situation; it WORKS, but there are much better alternatives given the option of a much more inclusive path of healing.
 
 ---
 
@@ -96,6 +96,6 @@ There are people who end up "finding their talents" and live a life doing their 
 
 Invariably, this isn't something that someone else ordered them to do, but something that they just had deep down inside and that they learned to bring out of themselves and manifest into physicality.
 
-And as much as society as it exists now won't encourage self-realized people, *true healing always begins with the individual*. There *are* people who have escaped the disastrous commitment to a false, static self-image, and it is possible to "find the others," as Terence McKenna put it, so to create support structures, friendships and communities.
+And as much as society as it exists now won't encourage self-realized people, *true healing always begins with the individual*. There ARE people who have escaped the disastrous commitment to a false, static self-image, and it is possible to "find the others," as Terence McKenna put it, so to create support structures, friendships and communities.
 
 There is no true satisfaction to be found anywhere trying to be someone we're not. The choice to walk the path of healing is the choice between a life of challenges, and a life of challenges and regret.

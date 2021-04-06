@@ -14,7 +14,7 @@ It's incredible what I'm noticing after reading [Scattered](https://www.goodread
 
 All the times we're feeling bad for ourselves is because we care. We care about ourselves, we care so much it hurts. This is actually, at the core, loving ourselves, but twisted beyond the good intentions into something that has lost sight of its original purpose.
 
-All the times we're harsh on ourselves, any time we do something to ourselves that we can't explain, it's because we long to be loved; if you look for it, deep down you will find this as ultimate motive. The step, then, is to remind this part that *we* can love ourselves too.
+All the times we're harsh on ourselves, any time we do something to ourselves that we can't explain, it's because we long to be loved; if you look for it, deep down you will find this as ultimate motive. The step, then, is to remind this part that *we can love ourselves too*.
 
 The desire to be loved by others is because we long to absorb the love of others, their methods, their ways, so that we can grow into a loving, individualized, mature self ourselves. But some of this can also be done on our own, or through the help of friends, books, psychedelics
 

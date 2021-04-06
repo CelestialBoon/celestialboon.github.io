@@ -1,4 +1,4 @@
-In itself, a *tulpa* (as it is meant in the Western definition, not the Tibetan one) is an independent, co-habiting thoughtform. It can be thought of as an imaginary friend on steroids; eg. one who reliably and intelligently talks back.
+In itself, a **tulpa** (as it is meant in the Western definition, not the Tibetan one) is an independent, co-habiting thoughtform. It can be thought of as an imaginary friend on steroids; eg. one who reliably and intelligently talks back.
 
 Tulpamancing, or the practice of creating, raising and living with a tulpa, is a relatively novel concept, having come into niche popularity only around 2012.
 

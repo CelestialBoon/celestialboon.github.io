@@ -14,7 +14,7 @@ We start with the million dollar question: *what the fuck IS time?*
 
 That time is so elusive a concept should be our first clue that it's not a thing-in-itself; it's not something you can point at, like an apple. Which likely makes it a relationship of sorts.
 
-A friendship is not something you can point to, that you can say exists *somewhere*; it's just something that exists in relationship to two beings.
+A friendship is not something you can point to, that you can say exists SOMEWHERE; it's just something that exists in relationship to two beings.
 
 Distance is the same thing; it's only defined between two points. Worse, it's effectively meaningless before THREE points exist.
 
@@ -27,7 +27,7 @@ Two points are defined to have distance = 1 meter, and with that you measure the
 
 But underneath distance, there is space. Distance is a way of putting measure to space.
 
-So what is underneath time? Time is very obviously a measure of *something*, but what is this *something* that time is measuring?
+So what is underneath time? Time is very obviously a measure of SOMETHING, but what is this SOMETHING that time is measuring?
 
 To answer that, we need to talk about Paralle- I mean, about the Eternal Present Moment.
 
@@ -37,13 +37,13 @@ The Eternal Present Moment is a concept that is most prominent in Eastern philos
 
 What experience is made of, is this continuously ongoing, eternal present Now. The Present Moment is all that is, was and ever will be, precisely because that's where all the action takes place all the time, and nowhere else. If it happens, it happens Now.
 
-The past, thus, cannot be said to truly Exist, and our memory of it, then, is the left imprint of different perceived states of the Now. Our imagination is our connection to other *potential* states of the Now, and both are what allow us to "escape" the Now in the first place.
+The past, thus, cannot be said to truly Exist, and our memory of it, then, is the left imprint of different perceived states of the Now. Our imagination is our connection to other POTENTIAL states of the Now, and both are what allow us to "escape" the Now in the first place.
 
 (Ironically, both memory and imagination remain part of the Now; each recollection and each fantasizing take place Now. We just pretend that they're something that don't belong to the Now, in some weird twisty sense.)
 
 Without memory, there would be no sense of something that happened that was different from Right Now; there would be no sense of change. Everything would be happening and we wouldn't be able to draw connections to a different state. The current State would be all that is.
 
-Thus, our memory gives us a very poignant realization: that the Now doesn't stay the same all the time. We can recognize differences between some Now and some other Now (whatever *that* means), and as such we stumble upon the concept of Change.
+Thus, our memory gives us a very poignant realization: that the Now doesn't stay the same all the time. We can recognize differences between some Now and some other Now (whatever THAT means), and as such we stumble upon the concept of Change.
 
 Change is this property of the Now by which the experience of the Now is distinguishable from the imprint it left. It's like looking back to your tracks to realize you aren't just walking in place, but you have been in fact moving forward to some other point in space.
 

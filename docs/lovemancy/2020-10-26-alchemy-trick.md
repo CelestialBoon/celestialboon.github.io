@@ -40,7 +40,7 @@ Judging someone for a lack can transform into the joy of the opening of the oppo
 
 And the trick is that this shift can be made consciously, in each moment.
 
-Like how people skydive to turn their *fear* of falling into the *elation* of falling.
+Like how people skydive to turn their **fear** of falling into the **elation** of falling.
 
 Or how people can choose to defuse a situation by laughing it up.
 

@@ -144,7 +144,7 @@ The practice of divine Love brings you closer to your divine Self, to the point 
 >
 > “Someone with deep emotion—not the sentimental, mushy kind, but the kind that is lucid, fused from a deep and abiding love that’s not moody or predicated on ease— can arouse their missions, even missions as grand as yours. The heart is the fuel that powers the mission.”
 
-There's many levels to the practice, for sure. In a way, one can use such energies to permeate and fill every aspect of their lives. The practice is more of a *how* than a *what*.
+There's many levels to the practice, for sure. In a way, one can use such energies to permeate and fill every aspect of their lives. The practice is more of a **how** than a **what**.
 
 ### The practice
 

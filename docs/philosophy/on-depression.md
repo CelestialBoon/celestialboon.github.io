@@ -16,7 +16,7 @@ Evergreen tree
 @celestialboon
 ·
 Jan 18, 2020
-Depression helps awareness like a hammer to the toe helps to raise awareness, in the sense that it *does* work, but you could do much better on the whole by some other means.
+Depression helps awareness like a hammer to the toe helps to raise awareness, in the sense that it DOES work, but you could do much better on the whole by some other means.
 
 Having been both depressed and not depressed, I definitely do not recommend fetishizing the former.
 Alberto Albero

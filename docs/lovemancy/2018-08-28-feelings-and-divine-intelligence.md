@@ -124,7 +124,7 @@ For another, to be properly felt, such presence has to be actively invited to ta
 
 > Remember that language is a tool of limitation. Feeling is an antidote of limitation that permits the human instrument to leap over the boundaries of the logical mind and witness firsthand the wordless power of collective energy individuated.
 
-I think that it has to be stressed that we are talking about actual feelings here, that can be perceived, that can be *felt*; that can pervade your body, your imagination; that can be as quiet as a whisper or as overwhelming as a tempest.
+I think that it has to be stressed that *we are talking about actual feelings here, that can be perceived and that can be felt*; that can pervade your body, your imagination; that can be as quiet as a whisper or as overwhelming as a tempest.
 
 It is part of the common wisdom that love is perceived in the form of feelings, and its divine variant is no different in this regard. The energetic heart, the chest area, is the privileged channel through which they can be felt, but they are far from limited in this manner in their expression.
 
@@ -185,7 +185,7 @@ For some more insight on how to develop a more transformative relationship with 
 Remember that we are talking here of a source of intelligence; it's not going to take over if you don't let it. It has to be allowed space, and presence, and predominance.  
 It moves with its own rhythms, and operates from its own framework.
 
-The best way to approach it is *not* to try and bend it to our will, to our immediate desires, to our perceived needs, but instead, to open in surrender, and to receive what is given, unconditionally. Through such practice, we can learn to discern the presence of the Creator within the big and the small things, in the fast-paced and in the slow-paced events both.  
+The best way to approach it is NOT to try and bend it to our will, to our immediate desires, to our perceived needs, but instead, to open in surrender, and to receive what is given, unconditionally. Through such practice, we can learn to discern the presence of the Creator within the big and the small things, in the fast-paced and in the slow-paced events both.  
 
 There is no need to rush anything in this; only to accept, and to allow. One only needs to hold the intent present to receive, with the knowing that what is needed will come at the moment when it is needed.
 

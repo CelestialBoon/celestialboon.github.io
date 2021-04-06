@@ -27,14 +27,14 @@ somewhat contained in the Lo1 as well
 definitely talking about Love here
 
 (GT)
-Often called an *experience* more than a game, *Golden Treasure: The Great Green* is nonetheless on its surface an adventure video game where you live a dragon's life, or lives, right from inside the egg to what awaits beyond.
-It stands as an exceptional container of spiritual truths, either lived, shown by example, or outright told. The whole game oozes with an amount of not just *care*, but *mastery*, on such topics that I have honestly never found anywhere else in the video game art form. 
+Often called an **experience** more than a game, *Golden Treasure: The Great Green* is nonetheless on its surface an adventure video game where you live a dragon's life, or lives, right from inside the egg to what awaits beyond.
+It stands as an exceptional container of spiritual truths, either lived, shown by example, or outright told. The whole game oozes with an amount of not just **care**, but **mastery**, on such topics that I have honestly never found anywhere else in the video game art form. 
 The Golden Treasure parts in the article are mostly aimed at those who have already played through the game, so many things will be left implied; the content will spoilers large portions of the game, and is therefore put within spoiler tags. For those who have not played it yet, I implore you to at least consider doing so: it is the closest I can think of to an _unmissable_ game for a spiritual seeker. It delivers like few other things I've witnessed, the majority of which are also cited in this article.
 
 ## Actually talking about the various layers
 
 1
-Survival is the first lesson of life, for life needs to self-sustain to continue existing, for some definition of *self*, as opposed to dissolving back into the whole. Life in the earliest stages is the start of the process of individuation, like a bacteria becomes something identifiable as in some sense *different* from the ocean surrounding it, recognizable as such, and in some way more *alive* than the surrounding particles, containing within it a delicate order that needs to be preserved against the buffeting forces of existence. 
+Survival is the first lesson of life, for life needs to self-sustain to continue existing, for some definition of **self**, as opposed to dissolving back into the whole. Life in the earliest stages is the start of the process of individuation, like a bacteria becomes something identifiable as in some sense **different** from the ocean surrounding it, recognizable as such, and in some way more **alive** than the surrounding particles, containing within it a delicate order that needs to be preserved against the buffeting forces of existence. 
 
 Survival is the maintenance of life through one's existence, and valor is the broader virtue of preserving the qualities of existence deemed worth to; those reflecting some sort of higher order, that could otherwise be compromised and dissolve. The sustenance of life, the maintenance of health, and the defense of love are all acts of valor.
 

@@ -30,7 +30,7 @@ It is interesting to observe when this memory-sense fails: what happens then? Pe
 
 Losing familiarity of themselves is depersonalization; losing familiarity of reality is derealization; losing familiarity of other people is Capgras syndrome ie. feeling that those you used to know aren't themselves anymore, and have been replaced by copies, aliens etc.
 
-With depersonalization, no connection is drawn between what's happening now inside the bodymind and some past similar event; it is felt, but it also does not feel theirs. It doesn't feel familiar. It's not *them*. This also leaves very little for an ego to work with.
+With depersonalization, no connection is drawn between what's happening now inside the bodymind and some past similar event; it is felt, but it also does not feel theirs. It doesn't feel familiar. *It's not them*. This also leaves very little for an ego to work with.
 
 Without the felt sense that one's body and mind are theirs (because no continuity or familiarity is felt), an ego has no solid grounds to claim these parts of experience as self, and this often generates frustration at the perceived and unsatisfied need to form an identity.
 

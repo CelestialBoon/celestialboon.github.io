@@ -12,13 +12,13 @@ It is a fairly shared sentiment that the main series pokémon (MSP) games have b
 
 Among the wealth of other slights:
 
-- The transition from 2D to 3D has been lacking, and the increase in *potential* for detail has not been compensated with an actual increase in detail, in fleshing-out of things, so now places feel empty, pokémon feel stiff, and the world makes less sense because less is left to the player's imagination without adequate compensation in actual depiction.
+- The transition from 2D to 3D has been lacking, and the *increase in potential* for detail has not been compensated with an *actual increase in detail*, in fleshing-out of things, so now places feel empty, pokémon feel stiff, and the world makes less sense because less is left to the player's imagination without adequate compensation in actual depiction.
 
 - The formula is getting very stale, AND getting worse every release with more focus being put in the wrong places, like overemphasizing story to the detriment of gameplay, when historically most pokémon storylines have been barely good enough to serve as a pretext for the adventure.
 
 - The decision to target the game to kids "who don't have much time to play our games" is not only baffling and honestly a bit moronic (why are you targeting your game to people who buy it without wanting to actually play it?), but it is also misguided since game directors everywhere seem to mysteriously forget that kids are actually pretty fucking smart and determined to figure out stuff once engaged.
 
-- The overall polish of MSP games is notably decreasing, owing to severe fatigue on Game Freak's side due to the grueling release schedule, poor management, and all the *other* questionable franchise decisions.
+- The overall polish of MSP games is notably decreasing, owing to severe fatigue on Game Freak's side due to the grueling release schedule, poor management, and all the OTHER questionable franchise decisions.
 
 That said, there's another, severely crucial problem which manifests in a variety of ways (decrease in difficulty, babying the player throughout, linearization of routes and progression), all stemming from a core concept that has completely eluded Game Freak's attempts at determining the core appeal of the franchise, instead leaving them clinging to the crystallized story structure of "the prepubescent small-town trainer getting 1 of 3 elemental starters and climbing through the Pokémon League while catching mons and dumpstering a rival and some evil team along the way"; a structure which by now is but a hollow shell of its former self.
 
@@ -28,9 +28,9 @@ This, of course, happens through the pokémon themselves.
 
 In any game, the protagonist is far more important than just a player avatar; they are an extension of the player self, and an integral part of a player's identity while the game is involved.
 
-The player-controlled trainer of the MSP game, however, is a mute, blank-slate non-entity, barely a transparent proxy for the player to interact with pokémon and their world, and a vehicle for her pokémon collection to get from one place to another, battle, and expand. The main trainer is *not* the protagonist of any MSP game.
+The player-controlled trainer of the MSP game, however, is a mute, blank-slate non-entity, barely a transparent proxy for the player to interact with pokémon and their world, and a vehicle for her pokémon collection to get from one place to another, battle, and expand. *The main trainer is not the protagonist of any MSP game*.
 
-Instead, it is the pokémon team of the main trainer which is the real protagonist.
+Instead, *it is the pokémon team of the main trainer which is the real protagonist*.
 
 Every trainer in the games has a pokémon team that reflects their personality, but for the blank-slate protagonist (lacking another way for it to be expressed) the pokémon team IS her personality, writ large and manifested in physicality; each pokémon serving as a materialized aspect of the psyche, through which she defines herself and, in turn, the player.
 
@@ -49,9 +49,9 @@ It is the tension of being personally put under question, and having to muster t
 
 Without any stakes that are perceived by the player as significant—by their ability to put the onus on the player to evolve—the story feels empty of meaningful tension. The emotional engagement flatlines, and the experience becomes bland and forgettable.
 
-The main trainer of the latest installments is effectively a Mary Sue, given the severe power discrepancy between herself and the challenges she faces—maybe except for the part where she's infantilized by basically everyone in the storyline, but it's not like she ever tells anyone off or anything. If she fought to break out of that mold, that *would* make for an interesting conflict and engaging storyline, but it is never addressed, remaining a non-issue wrt the story. As it stands, it's just insult added on top of the injury.
+The main trainer of the latest installments is effectively a Mary Sue, given the severe power discrepancy between herself and the challenges she faces—maybe except for the part where she's infantilized by basically everyone in the storyline, but it's not like she ever tells anyone off or anything. If she fought to break out of that mold, that WOULD make for an interesting conflict and engaging storyline, but it is never addressed, remaining a non-issue wrt the story. As it stands, it's just insult added on top of the injury.
 
-This whole deal with trying to make the franchise as "accessible" as possible isn't only demeaning of the audience (who needs to know what pokémon *are* this day and age?), but it also runs counter to the very essence of what makes pokémon appealing as a vessel of the player's self. Easier doesn't always mean better—how many games do you know have a "win instantly" button?
+This whole deal with trying to make the franchise as "accessible" as possible isn't only demeaning of the audience (who needs to know what pokémon ARE this day and age?), but it also runs counter to the very essence of what makes pokémon appealing as a vessel of the player's self. Easier doesn't always mean better—how many games do you know have a "win instantly" button?
 
 Players don't want to be taken on a boat ride; they want an adventure, just like readers ask for a storyline with stakes and conflict out of a novel. No Hero's Journey could ever happen without those.
 

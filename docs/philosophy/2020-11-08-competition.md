@@ -20,9 +20,9 @@ Or, it's observable in aboriginal/indigenous cultures how the youth plays games 
 
 This carries an implication that over time, the meaning of competition has degraded from this working/playing together into something where coming first brought a difference in status, gradually degenerating into outright rivalry (bringing the opponent down as path to victory)
 
-The original meaning of competition is still alive in the word "competent," since competence is what naturally results in an environment in which everyone collaborates towards a common goal. *Competing* in such a manner makes people *competent*.
+The original meaning of competition is still alive in the word "competent," since competence is what naturally results in an environment in which everyone collaborates towards a common goal. COMPETING in such a manner makes people COMPETENT.
 
-To get this in perspective, an environment that stays faithful to the original meaning of competition is the art *scene*, the place where ie. everyone exercises their art and plays to one-up one another for funsies, which results in a vibrant, knowledged and fun time.
+To get this in perspective, an environment that stays faithful to the original meaning of competition is *the art scene*, the place where ie. everyone exercises their art and plays to one-up one another for funsies, which results in a vibrant, knowledged and fun time.
 
 Which also implies that "competent" originally carries a meaning less of personal skills, and more of the ability to work in and contribute to the context of a rich group environment.
 

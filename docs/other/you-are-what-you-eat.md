@@ -6,7 +6,7 @@ Evergreen tree
 @celestialboon
 ·
 Feb 13, 2020
-So people sometimes say "We are what we eat." It feels true, but not *that* much, right? Doesn't it all get broken down into nutrients anyway? Don't we just need the right nutrient sludge to sustain the body? Nope! Nutrition is much more than keeping the body fed.
+So people sometimes say "We are what we eat." It feels true, but not THAT much, right? Doesn't it all get broken down into nutrients anyway? Don't we just need the right nutrient sludge to sustain the body? Nope! Nutrition is much more than keeping the body fed.
 Alberto Albero
 Evergreen tree
 @celestialboon

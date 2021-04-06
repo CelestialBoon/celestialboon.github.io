@@ -31,9 +31,9 @@ As within, so without; issues with relating to the world and with relating to on
 
 And so, being poor at self-care includes attracting abusive/mistreating people, while putting aside the people that would be able to contribute to a healthy, joyous life.
 
-For some, this rift in self-care is so deep, that in their model they absolutely *cannot* take care of themselves properly, and conjointly, people who would be able to take care of *them* properly do not physically exist.
+For some, this rift in self-care is so deep, that in their model they absolutely CANNOT take care of themselves properly, and conjointly, people who would be able to take care of THEM properly do not physically exist.
 
-And that's because one's seen enough in their youth to come to that conclusion. We form the biggest part of our worldview in the early years, and deep down one feels that if such people existed, they would, they *should* have been right there when they were needed the most.
+And that's because one's seen enough in their youth to come to that conclusion. We form the biggest part of our worldview in the early years, and deep down one feels that if such people existed, they would, they SHOULD have been right there when they were needed the most.
 
 Instead, one's very often faced with incompetence (malicious or otherwise) that makes one feel unhappy, unloved, misunderstood, no matter how much we try to do better, or how much we try to hide our feelings' conclusion from ourselves. Deep down, we can't escape how we feel.
 
@@ -55,7 +55,7 @@ What is the enduring message that one subconsciously derives through mistreatmen
 
 Needless to say, these beliefs become the foundation of our relationship with ourselves, because early on we internalize others' relationship with us to form the basis of our own self-relating.
 
-To add to that, the smallness felt when young remains even when adult, because we never really abandon our younger selves. Through the years, we just become it *plus* something else; we become *more* than we were before.
+To add to that, the smallness felt when young remains even when adult, because we never really abandon our younger selves. Through the years, we just become it PLUS something else; we become MORE than we were before.
 
 And so, some people become stuck in a situation in which not only they mistreat themselves, through acts both deliberate and not, both chronic and acute, both on the inside and on the outside,
 
@@ -65,11 +65,11 @@ Nevertheless, the hunger for care remains, and given this barrier of belief, I'v
 
 Eg. We all recognize the importance of the plush animal for many kids as a way to perceive comfort and affection, which is profoundly disturbing if thought about for two seconds: why does the child have to settle for finding such very social emotions in an inanimate object?
 
-It's important to note that such deep-rooted beliefs are effectively our core programming, and they will continue to shape our perception of reality unless addressed, in many ways *forcing* reality to conform to them when challenged, through the sheer impulse to homeostasis.
+It's important to note that such deep-rooted beliefs are effectively our core programming, and they will continue to shape our perception of reality unless addressed, in many ways FORCING reality to conform to them when challenged, through the sheer impulse to homeostasis.
 
 There is so much effort that people take in self-development that goes wasted because at our core we believe to be irredeemable and hopeless, and so we drag ourselves right back to the starting point, deep down believing that to be our lot.
 
-To have real hope of changing ourselves, we have to deeply understand (feel!) that we *can* change. We *can* understand ourselves. We *can* have a satisfying, joyful life. We *can* be proud of ourselves every day. We *are* important and meaningful.
+To have real hope of changing ourselves, we have to deeply understand (feel!) that *we can change. We can understand ourselves. We can have a satisfying, joyful life. We can be proud of ourselves every day. We are important and meaningful*.
 
 Strong feelings and emotions are the keys to deprogramming, in the same way that it is strong feelings+emotions that carved our worldview in our psyche in the first place. Logic alone cannot bring someone out of a hole that feelings+emotions put them in.
 

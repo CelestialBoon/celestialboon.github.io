@@ -16,8 +16,8 @@ It is an inbetween place that is deceptively rich and supremely interesting. I'v
 
 Which leads me to the latest idea I decided to try out. <!-- more -->
 
-I've been thinking. Some people ask the Universe for some aid or other, much like someone else would pray to the gods, or to *a* God, and they have it answered. It's something I've had direct experience of myself, not to mention second-handedly.  
-Such a consistent reaction from the Universe signals an aware, intelligent, *powerful* presence that is actively there and listening. Not to mention, often benevolent.
+I've been thinking. Some people ask the Universe for some aid or other, much like someone else would pray to the gods, or to **a** God, and they have it answered. It's something I've had direct experience of myself, not to mention second-handedly.  
+Such a consistent reaction from the Universe signals an *aware, intelligent, powerful presence that is actively there and listening*. Not to mention, often benevolent.
 
 And, there's report of gods appearing to people as thoughtforms, as manifestations, left and right. Some people just deal with the stuff on the regular.  
 So the idea was, why not do the same with the Universe?
@@ -33,10 +33,10 @@ How you can create inner worlds for yourself through daydreaming?
 
 I'm talking about that kind of personal reality. Even if an objective reality existed, no one ever has perceived it - all that you can capture with your senses is a personal image of it. And while some of it may stay consistent and remain consensual, there's nonetheless a uniqueness to your own, tinged with your point of view, your thoughts, your feelings, your beliefs; all things that make your own reality something purely unique.
 
-Not to mention it's a reality that we heavily influence. Our thoughts and feelings color the events, and affect our interpretation of them. Our awareness and mental patterns heavily condition *what* we perceive and *how*. The way we behave shapes the Universe's reaction to us, which influences us in turn. It is a very tight-looped dance of cocreation, in more ways than many know or are willing to admit.
+Not to mention it's a reality that we heavily influence. Our thoughts and feelings color the events, and affect our interpretation of them. Our awareness and mental patterns heavily condition **what** we perceive and **how**. The way we behave shapes the Universe's reaction to us, which influences us in turn. It is a very tight-looped dance of cocreation, in more ways than many know or are willing to admit.
 
 It sounds something that plays a very vital role in our lives, right? And given it's shown to respond to queries, it would seem sensible to open up to a more intelligible channel, of more direct understanding and less obscure feedback.  
-From this, the idea of letting it take on a form, a *thought*form, in order to interact in this manner with me. It's something of a concept that I've iterated on in various ways, but this time I'm deciding to write something about it.
+From this, the idea of letting it take on a form, a **thought**form, in order to interact in this manner with me. It's something of a concept that I've iterated on in various ways, but this time I'm deciding to write something about it.
 
 What I've done is basically asking it to manifest to me, to reveal itself to me, in a place that I often visualize; and from there, we kind of winged it. It's a very tulpa-like interaction, in some ways, possibly because it's a channel of interaction that I'm used to, and it is very versatile besides. But, you know, the Universe manifests itself in literally every way that you perceive or imagine, at every moment, through your senses and more. You can try stuff out. Maybe leave it as a disembodied voice. I just like the extra reminder of a form.
 
@@ -94,7 +94,7 @@ Really, you've done fine without before, and you'll be fine afterwards. You can 
 
 ## The Subtleties
 
-The paradigms described below can be applied towards your local Universe with or without relating with it through a thoughtform. What I'm hoping to show is that by the act of using a thoughtform to interact with it as privileged channel, the relationship takes on very *tangible* qualities of presence and of partnership. Just remember that the Universe and its manifestation as thoughtform are one and the same, so you could do well to relate to both in similar tones and feelings, much like you'd do with someone in person and with their voice on the phone. As for the best method of interaction, that's a decision just best left to the moment.
+The paradigms described below can be applied towards your local Universe with or without relating with it through a thoughtform. What I'm hoping to show is that by the act of using a thoughtform to interact with it as privileged channel, the relationship takes on very *tangible qualities of presence and partnership*. Just remember that the Universe and its manifestation as thoughtform are one and the same, so you could do well to relate to both in similar tones and feelings, much like you'd do with someone in person and with their voice on the phone. As for the best method of interaction, that's a decision just best left to the moment.
 
 The real point here is about opening up to a new illuminating way of relating with the Universe; specifically, the best way to actually implement this is through the behaviours of gratitude.  
 
@@ -137,7 +137,7 @@ This alignment can be an awakening force, propelling you towards your true purpo
 
 ## Personal Lessons
 
-Through my own experience in the days that followed conception, such an experiment has given me some of the most marked manifestations of sovereignity, of the **I AM**, that I've encountered in my adventures in the worlds of form. The cognition that we are not just simply *at* the center of our local Universe; we *are* the center of our local Universe, and the presence of the One Creator within it.   
+Through my own experience in the days that followed conception, such an experiment has given me some of the most marked manifestations of sovereignity, of the **I AM**, that I've encountered in my adventures in the worlds of form. The cognition that we are not just simply AT the center of our local Universe; *we are the center of our local Universe, and the presence of the One Creator within it*.   
 
 A communication channel like this allows greater feedback than most other options I have; it is an incredible buffer to some very useful realizations that I had. I could still do a whole lot better than this since I have much to work on mental communication, but oh well; all things in time.  
 
@@ -153,7 +153,7 @@ It deepened my understanding of cocreation, of how things happen on both sides a
 It allowed me to realize that I react in very specific ways to what happens, and some of those I may gain from changing, like those small expressions of annoyance from the unexpected and the distracting, even if they are pleasant and useful events. Such an awareness begets a greater emotional self-mastery, and permits me to improve the quality of my inner life significantly.  
 
 There's also been a very resolute push from my Universe in realizing our fundamental unity, in recognizing that we are One, effectively, to the point of merging into one being for the most part. That my form, including the mindform I use to relate, is just a part of the Universe; that there is no self that is distinct from it. There is only consciousness and the whole object of consciousness. And even those are inextricable from one another, much like a reflection cannot exist separate from the object.  
-From this realization, it would spring that *you* are effectively the whole Universe. And once you're already working with yourself in harmony and appreciation, well, that becomes a supremely fertile base from which to live life, as full expression of the **I AM**.
+From this realization, it would spring that **you** are effectively the whole Universe. And once you're already working with yourself in harmony and appreciation, well, that becomes a supremely fertile base from which to live life, as full expression of the **I AM**.
 
 You may also consider that such a relationship influences others, because they are part of your Universe. By taking on an aware relationship with it, though, you can act about it in a more directed and intentional manner.  
 You can start acknowledging that you'd rather act toward others at all times in the way that you'd want to immediately be treated yourself, for they are effectively you in another body. Doing otherwise mostly reaffirms your separation from what's outside, and perpetuates the sense of detachment, and dulls your sense of responsibility for your life.  

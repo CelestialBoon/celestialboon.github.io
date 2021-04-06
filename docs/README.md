@@ -14,7 +14,7 @@ A foundational belief on which this effort operates is the existence of a realit
 
 ![](images/davidickeinfinitelove.jpg)
 
-It is with the intention of bringing people closer to the experience of this love that I write these words. Deep inside we find a ceaseless striving towards something *more*, something *better*, and if listened properly, this small still voice will draw us to the still center point within ourselves, where we can find our truest guidance and our truest self.
+It is with the intention of bringing people closer to the experience of this love that I write these words. Deep inside we find a ceaseless striving towards *something more*, *something better*, and if listened properly, this small still voice will draw us to the still center point within ourselves, where we can find our truest guidance and our truest self.
 
 This little corner of the internet is designed to provide tools for the seeker to find themselves; to interact in a more harmonious, loving way with themselves and with what surrounds them; and to help them see all of creation, personal or otherwise, as our greatest intent and mission made manifest.
 

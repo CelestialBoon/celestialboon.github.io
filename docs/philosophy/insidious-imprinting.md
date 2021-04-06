@@ -14,7 +14,7 @@ I've been reminded today of how insidious our imprinting from our early environm
 
 I've been told recently that my dad wants to help me when I fail, but it goes deeper than that. It's something that he feels to be an inevitable duty, and it's also a solid fear of his.
 
-So between his fear and belief, there's been a strong *expectation* on me, however subconscious, for me to fail and to need to ask for help. Ironically, I've felt it on some level and always resisted it in part, but I wasn't able to break out its grasp in any case.
+So between his fear and belief, there's been a strong EXPECTATION on me, however subconscious, for me to fail and to need to ask for help. Ironically, I've felt it on some level and always resisted it in part, but I wasn't able to break out its grasp in any case.
 
 What it took was becoming conscious of this pattern, and also a morning in the woods where I brought myself out of breath with exertion and I just opened the gates; I screamed the primal screams of those who call for help, where I wouldn't be helped.
 
