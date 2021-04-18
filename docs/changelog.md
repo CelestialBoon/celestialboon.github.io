@@ -1,3 +1,5 @@
+2021-04-18: Added Math, Art and Play
+
 2021-04-06: Slight general reformatting
 
 2021-04-05: Added 5th element

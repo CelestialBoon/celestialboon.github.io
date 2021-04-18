@@ -35,7 +35,7 @@ Take an example: you have a (possibly rigged) coin that you have to determine th
 
 There's simply no way to know for sure; we just reach a point where we're confident enough about our answer that we just go "eh, fuck it" and call it a day.
 
-This is how it goes for pretty much everything; we are subjected to events that influence our beliefs (our estimates about the world) and we update those beliefs accordingly. The rationally-sanctioned method to update beliefs is called Bayesian updating, where we just update our (probabilistic) odds by [multiplying it by the (again, projected) Bayes factor](https://www.youtube.com/watch?v=lG4VkPoG3ko) of a certain event-result.
+This is how it goes for pretty much everything; we are subjected to events that influence our beliefs (our estimates about the world) and we update those beliefs accordingly. The rationally-sanctioned method to update beliefs is called *Bayesian updating*, where we just update our (probabilistic) odds by [multiplying it by the (again, projected) Bayes factor](https://www.youtube.com/watch?v=lG4VkPoG3ko) of a certain event-result.
 
 In such a context, there is nowhere space for true, unshakeable certainty. For that which has reached absolute certainty is effectively dead; no multiplication can ever displace 0:1 odds. No event or perception can influence it anymore. It is no longer part of the flow of life, and instead exists outside of it.
 
@@ -43,9 +43,9 @@ What we do manage on the regular, instead, as beings with a limited view of the 
 
 The rest of us deal with things that could be either true or false, for all we know, and in so doing, we navigate life by holding multiple possibilities in our heads: this project could go well or it could go badly; someone might accept or reject my invitation to hang out; the sun might rise tomorrow but there's the smallest theoretical possibility that it might just not, for whatever reason. <!-- We *do* believe that the sun as we know it will just stop existing at some point in time, and there's just the vanishing possibility that it might be tomorrow. -->
 
-In the same way the coin A flipped is either definitely heads or it's definitely tails, and B knows it's one of these two, even without knowing which, believing a thing is both true and false at the same time is just human nature. We do not, and cannot have, perfectly accurate beliefs from a limited perspective. We juggle opposing possibilities on the regular, and adjust the course on the go by weighing them against ongoing experience.
+In the same way the coin A just flipped is either definitely heads or it's definitely tails, and B knows it has to be one of these two—even without knowing which! Believing a thing is both true and false at the same time is just human nature. We do not, and cannot have, perfectly accurate beliefs from a limited perspective. We juggle opposing possibilities on the regular, and adjust the course on the go by weighing them against ongoing experience.
 
-We live in a shifting world of incomplete and sometimes misguiding information, a world of shadows and echoes, and our inner model of the world reflects this, no matter how much we like to pretend otherwise.
+We live in a shifting world of incomplete and sometimes misguiding information, a world of shadows and echoes, and our inner model of the world reflects this, no matter how much we like to pretend otherwise. *Our beliefs are partial*, in the sense that we do not actually believe anything with pure certainty, just (shifting) degrees of confidence.
 
 This dynamicity of beliefs reflects not only our partial access to information, but also the simple truth that *things just change over time*. As the Buddhists preach, a very core component of reality is **anicca**, its inherent impermanence and transience. Not one single thing lasts forever, or is for certain.
 

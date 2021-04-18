@@ -5,6 +5,7 @@
 - [**Philosophy**](philosophy/)
 - [Beliefs and Models p1](philosophy/2018-07-23-beliefs-are-partial.md)
 - [Beliefs and Models p2](philosophy/2018-07-24-models-are-false.md)
+- [Math, Art and Play](philosophy/2021-04-18-math-art-play.md)
 - [Procrastination and self-image](philosophy/2021-03-18-procrastination.md)
 - [On Ego, Self and Plurality](philosophy/2019-12-21-self-as-many.md)
 - [Ego and Memory](philosophy/2019-12-23-ego-and-memory.md)
