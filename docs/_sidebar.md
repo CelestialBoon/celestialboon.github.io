@@ -66,11 +66,12 @@
 
 ----
 
-- [**Other**](other/)
-<!-- - [About](other/about.md) -->
-- [On Pokémon](other/2021-02-07-pokemon-decline.md)
+- [**Media**](media/)
+- [On Pokémon](media/2021-02-07-pokemon-decline.md)
+- [On MLP:FiM Cutie Marks](media/2021-06-21-cutie-marks.md)
 
 ----
 
+<!-- - [About](about.md) -->
 - [My trip reports](//boonstripreports.writeas.com)
 - [Changelog](changelog.md)

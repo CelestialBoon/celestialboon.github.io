@@ -1,1 +1,0 @@
-Just odds and ends. The articles and musings that don't fit into other categories.
