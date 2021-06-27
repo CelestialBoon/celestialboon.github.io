@@ -81,14 +81,14 @@ Such expressions of this Love are exquisitely human in nature, as they come from
 
 - This Love can also be felt by way of physical sensations. It is very much possible to just get to feel it in the heart region, in a variety of ways: a lightness in the chest; a clearer breath; a quiet resolution; an openness, a feeling of oneness with all existence; a quieter mind; a connection to life around you; an innate joy; a feeling of liberation, of freedom, of truth.
 
-- One must be accepting of Love as it comes to you. To love someone is to find them worthy of such love, for if they weren't thought of as worthy, they wouldn't be loved in that manner. Thus, to love is to know as worthy, and to be loved is to BE worthy. There is no need to erect barriers around oneself, for Love already naturally goes to the right target, and there is no call for further filtering. Only acceptance and receptiveness are needed.
+- One must be accepting of Love as it comes to you. To love someone is to find them worthy of such love, for if they weren't thought of as worthy, they wouldn't be loved in that manner. Thus, to love is to know as worthy, and to be loved is to <i>be</i> worthy. There is no need to erect barriers around oneself, for Love already naturally goes to the right target, and there is no call for further filtering. Only acceptance and receptiveness are needed.
 
 - Once the Love is known, it is worthwhile to open up into receiving Love naturally. For one, this is done through being present in the simple awareness, as detailed above; it can also be summoned through an awareness that the Universe, or some part of it (even down to a single individual), or some higher power, loves you, and cares for you, and desires nothing more than for you to express the fullness that you are, your full beauty and splendor. This knowledge, this awareness, enables a natural flow of gratitude that can be the spine of your practice.
 
 #### Prayer
 
 Prayer can be, for some, a channel of communication with the Divine. A way of opening up to the Higher Power, and to bring out their spiritual side. It is a precious connection to cultivate, for it is one way to nurture the Divine that is within yourself.  
-When you immerse yourself in prayer, you come to a different place than your ordinary life; you might feel different, possessing a sense of peace, of innate and intimate relationship to something larger than you are. This SOMETHING is also within you, because it is felt by you in your very being as you pray.  
+When you immerse yourself in prayer, you come to a different place than your ordinary life; you might feel different, possessing a sense of peace, of innate and intimate relationship to something larger than you are. This <i>something</i> is also within you, because it is felt by you in your very being as you pray.  
 This state is the state of connection to the Divine that has been mentioned before, and is a place from where Love can spring forth unabated. You can nurture this sense, cherish it, and bring it in avenues outside prayer; or, seeing it from another angle, learn to bring the prayer to more facets of your life.
 
 #### Metta meditation

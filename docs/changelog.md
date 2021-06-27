@@ -1,3 +1,5 @@
+2021-06-27: Added On Friendship Letters
+
 2021-06-21: Added On Cutie Marks
 
 2021-04-18: Added Math, Art and Play

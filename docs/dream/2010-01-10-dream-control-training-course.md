@@ -165,7 +165,7 @@ Writerscube posted an insightful advice on this:
 > 2. Tear fade-effect-curtain down.  
 > 3. Discard curtain somewhere to the side or in a corner so no one slips on it.  
 > 4. A nearby trash can would be the best place to discard Fade-Out-Curtain.  
-> 5. (Optional) Sue whoever designed the Fade-Out-Curtain if you ever find him/her :p I certainly haven't found the culprit for such an outrageous dream inhibiting dream-object so if YOU do, drop a fish market on him/her for me.
+> 5. (Optional) Sue whoever designed the Fade-Out-Curtain if you ever find him/her :p I certainly haven't found the culprit for such an outrageous dream inhibiting dream-object so if <i>you</i> do, drop a fish market on him/her for me.
 
 More in general, since we are used to interact with physical objects in reality, we can treat events in dreams as such, effectively bending the dream to better fit our customs.  
 Do you think you can't do that? Then think of when people turn a knob to focus better the dream sight; now why is that, how can that happen? How can a thing such as the entire sight of the dream be related to a (fictional) hand gesture? Besides, that correlation would not at all be a fixed dream property, since one can use tons of other ways to do that, or can use the same knob later (or the same hand gesture, if there wasn't any knob in the first place) to accomplish entirely different feats, such as making the sun rise, or rotating a distant object. So, who decided that pill you're ingesting will help you with your flying skills? It isn't a given at all; it could transform you into a bear for all one knows before actually trying. Dreams are the realm of fantasy, afterall.  

@@ -69,6 +69,7 @@
 - [**Media**](media/)
 - [On Pokémon](media/2021-02-07-pokemon-decline.md)
 - [On MLP:FiM Cutie Marks](media/2021-06-21-cutie-marks.md)
+- [On MLP:FiM Friendship Lessons](media/2021-06-27-friendship-letters.md)
 
 ----
 

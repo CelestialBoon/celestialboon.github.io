@@ -8,7 +8,7 @@ date: "2021-06-21"
 
 <br>
 
-To date, the boom in popularity that My Little Pony: Friendship is Magic (MLP:FiM) has experienced in its heyday is one of the most sensational events I've ever witnessed in my life; and part of the reason why that is, I believe, is that Equestria as was depicted in Season 1 was probably as close to an actual depiction of a true utopia as we've gotten as a culture. It is an idealized mirror from which to observe, study and evaluate our own world.
+To date, the boom in popularity that My Little Pony: Friendship is Magic (MLP:FiM) has experienced in its heyday is one of the most sensational events I've ever witnessed in my life; and part of the reason why that is, I believe, is that Equestria as was depicted in Season 1 was probably as close to an actual depiction of a true utopia as we've recently gotten as a culture. It is an idealized mirror from which to observe, study and evaluate our own world.
 
 There are some specifics of note that can be discussed; today I talk about cutie marks.
 
@@ -34,12 +34,12 @@ Regularly, this lack develops into severe identity crises, like the widespread "
 
 The human reality is that our life in a society requires that the society itself has to reciprocate us; it has to validate our struggles and achievements, something that is distant from most people's priorities, leaving most bereft of a tight-knit community that can provide a nurturing space for meaningful growth.
 
-It is to note, then, that in Equestria cutie marks do away entirely with the necessity for an initiatory experience to be explicitly validated by the community; a cutie mark is not an ambiguous event, nor something that someone can contrast or refute. It's just there one day, visible to all. The validation is innate in the event, which is publicly, implicitly recognized as THE coming-of-age rite. Public recognition of one's achievements and adulthood is inbuilt in the social structure, which is naturally organized around cutie marks as a concept.
-Nonetheless, it is also true that such a coming of age is also, in some cases, explicitly celebrated by the community for good measure, like with the cute-ceañera in S1E12.
+It is to note, then, that in Equestria cutie marks do away entirely with the necessity for an initiatory experience to be explicitly validated by the community; a cutie mark is not an ambiguous event, nor something that someone can contrast or refute. It's just there one day, visible to all. The validation is innate in the event, which is publicly, implicitly recognized as <i>the</i> coming-of-age rite. Public recognition of one's achievements and adulthood is inbuilt in the social structure, which is naturally organized around cutie marks as a concept.
+Nonetheless, it is also true that such a coming of age is also, in some cases, explicitly celebrated by the community for good measure, like with the cute-ceañera in S1E12, "Call of the Cutie".
 
 <hr>
 
-There is, however, a second side to the cutie mark phenomenon. A pony who gets theirs does not just become AN adult; instead, they effectively come into a mature version of themselves. They grow into something closer to their true self. There is an important, individualized Something that was latent in themselves (their special talent), and with the appearance of the cutie mark, the pony gains the self-awareness and confidence necessary to bring their own, personal talent to the world.
+There is, however, a second side to the cutie mark phenomenon. A pony who gets theirs does not just become <i>an</i> adult; instead, they effectively come into a mature version of themselves. They grow into something closer to their true self. There is an important, individualized Something that was latent in themselves (their special talent), and with the appearance of the cutie mark, the pony gains the self-awareness and confidence necessary to bring their own, personal talent to the world.
 
 A pony's special talent often sends many premonitory signs in a foal's life, such as predilections, particular attitudes, or just special interests. Arguably, it is something that accompanies them from birth (if not before), if the mildly-oracular naming practices for newfoals are anything to go by.
 
@@ -71,7 +71,7 @@ in FiM such a confirmation is inevitable, solitary, and long-lasting.
 
 Conversely, in humankind such a realization is usually more tentative and more fleeting, and often requires community intervention to stick. In order to participate in a society, the individual needs feedback during their life, particularly the most developmental periods, in order to feel understood, validated, and to better fit the role that they are to take; this includes a landmark-setting for specific achievements in life, for the events that are very testing and that transform us into more mature individuals, which are socially organized in many indigenous communities as initiation rites, and which are instead a very solitary affair for most people in Western/globalized society.
 
-In this sense, with cutie marks FiM embodies a more idealized and streamlined form of our life structure; on both sides of the screen we have individuals with predestinies, but in FiM this is made manifest with ample visual clarity and very little room for misinterpretation, both to the individual AND to society (so to leave no room for disagreement), while in a human's life this path is ripe for confusion, missed cues, conflicts with other people and general path-straying. For us people, it is most clear that *it takes a village to raise a child*, because the child needs the guidance, the validation, and the love the village can offer in order to grow into their own innate talents.
+In this sense, with cutie marks FiM embodies a more idealized and streamlined form of our life structure; on both sides of the screen we have individuals with predestinies, but in FiM this is made manifest with ample visual clarity and very little room for misinterpretation, both to the individual <i>and</i> to society (so to leave no room for disagreement), while in a human's life this path is ripe for confusion, missed cues, conflicts with other people and general path-straying. For us people, it is most clear that *it takes a village to raise a child*, because the child needs the guidance, the validation, and the love the village can offer in order to grow into their own innate talents.
 
 Looking at it from this lens, FiM offers a compensation from the recent balkanization and de-spiritualization of human life paths, in that a pony is able to find clear and time-sensitive validation of their talents without the support structure a spiritually-sensitive community can offer.
 

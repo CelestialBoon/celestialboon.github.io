@@ -8,15 +8,15 @@ date: "2020-12-28"
 
 <br>
 
-We start with the million dollar question: *what the fuck IS time?*
+We start with the million dollar question: *what the fuck <i>is</i> time?*
 
 > "What then is time? If no one asks me, I know what it is. If I wish to explain it to him who asks, I do not know." - St. Augustine
 
 That time is so elusive a concept should be our first clue that it's not a thing-in-itself; it's not something you can point at, like an apple. Which likely makes it a relationship of sorts.
 
-A friendship is not something you can point to, that you can say exists SOMEWHERE; it's just something that exists in relationship to two beings.
+A friendship is not something you can point to, that you can say exists <i>somewhere</i>; it's just something that exists in relationship to two beings.
 
-Distance is the same thing; it's only defined between two points. Worse, it's effectively meaningless before THREE points exist.
+Distance is the same thing; it's only defined between two points. Worse, it's effectively meaningless before <i>three</i> points exist.
 
 Two distinct points can always be defined to have a distance of 1.
 When you get 3 points, you start having the wild idea of having to measure how much two of those points might be *more distinct* than another. Thus, distance as (relative) measurement.
@@ -27,7 +27,7 @@ Two points are defined to have distance = 1 meter, and with that you measure the
 
 But underneath distance, there is space. Distance is a way of putting measure to space.
 
-So what is underneath time? Time is very obviously a measure of SOMETHING, but what is this SOMETHING that time is measuring?
+So what is underneath time? Time is very obviously a measure of <i>something</i>, but what is this <i>something</i> that time is measuring?
 
 To answer that, we need to talk about Paralle- I mean, about the Eternal Present Moment.
 
@@ -37,19 +37,19 @@ The Eternal Present Moment is a concept that is most prominent in Eastern philos
 
 What experience is made of, is this continuously ongoing, eternal present Now. The Present Moment is all that is, was and ever will be, precisely because that's where all the action takes place all the time, and nowhere else. If it happens, it happens Now.
 
-The past, thus, cannot be said to truly Exist, and our memory of it, then, is the left imprint of different perceived states of the Now. Our imagination is our connection to other POTENTIAL states of the Now, and both are what allow us to "escape" the Now in the first place.
+The past, thus, cannot be said to truly Exist, and our memory of it, then, is the left imprint of different perceived states of the Now. Our imagination is our connection to other <i>potential</i> states of the Now, and both are what allow us to "escape" the Now in the first place.
 
 (Ironically, both memory and imagination remain part of the Now; each recollection and each fantasizing take place Now. We just pretend that they're something that don't belong to the Now, in some weird twisty sense.)
 
 Without memory, there would be no sense of something that happened that was different from Right Now; there would be no sense of change. Everything would be happening and we wouldn't be able to draw connections to a different state. The current State would be all that is.
 
-Thus, our memory gives us a very poignant realization: that the Now doesn't stay the same all the time. We can recognize differences between some Now and some other Now (whatever THAT means), and as such we stumble upon the concept of Change.
+Thus, our memory gives us a very poignant realization: that the Now doesn't stay the same all the time. We can recognize differences between some Now and some other Now (whatever <i>that</i> means), and as such we stumble upon the concept of Change.
 
 Change is this property of the Now by which the experience of the Now is distinguishable from the imprint it left. It's like looking back to your tracks to realize you aren't just walking in place, but you have been in fact moving forward to some other point in space.
 
-Just like sight allows us to hold two distinct objects in space at the same time in our vision, to recognize that there IS distance between them, so memory allows us to hold two imprints of Now side-to-side and realize that they are different; that time passed between them.
+Just like sight allows us to hold two distinct objects in space at the same time in our vision, to recognize that there <i>is</i> distance between them, so memory allows us to hold two imprints of Now side-to-side and realize that they are different; that time passed between them.
 
-Space IS, and within space we find the means in order to measure distance. Change IS, and within change we find the means in order to measure time.
+Space <b>is</b>, and within space we find the means in order to measure distance. Change <b>is</b>, and within change we find the means in order to measure time.
 
 Distance is the distinct-ness of space; time is the distinct-ness of change.
 
@@ -86,7 +86,7 @@ If we're on a ship in a featureless sea, memory is like the trail that the ship 
 
 A closing note: time is linear in the same way that space is linear, which means, somewhat locally, and extrapolated globally mostly by wishful thinking.
 
-Both space and time can be observed to be LOCALLY linear, with some coarse approximation. We know that space is fundamentally curved, or at least curve-able, and no global guarantees about time can be made from local observation either.
+Both space and time can be observed to be <i>locally</i> linear, with some coarse approximation. We know that space is fundamentally curved, or at least curve-able, and no global guarantees about time can be made from local observation either.
 
 For example, Relativity shows us how both time and space are distorted by such phenomenons as speed (Special Relativity) and gravity/acceleration. 
 

@@ -10,7 +10,7 @@ date: "2019-12-21"
 
 ## The Ego and the Self
 
-Starting out, what IS the ego? The definition I'll use is, the ego is a mental pattern of identification, that is, of a "me"-making. It is the periodic thoughts that attribute this or that thing (thoughts, feelings etc.) as me, and some others (eg. objects, body) as mine.
+Starting out, what <i>is</i> the ego? The definition I'll use is, the ego is a mental pattern of identification, that is, of a "me"-making. It is the periodic thoughts that attribute this or that thing (thoughts, feelings etc.) as me, and some others (eg. objects, body) as mine.
 
 It bears repeating that the ego is just that: a mental pattern. Things go on inside and outside of the body, and the ego is what gets to call some things me or mine. It is a thought among thoughts, and the disappearance of the ego does not compromise much of any other function
 
@@ -24,7 +24,7 @@ The difference between me and mine in the ego contexts is that "me" is what the 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As a child, when standing at a traffic light, I liked to try and snap my fingers the moment the traffic light changes. When it worked I&#39;d pretend that it was me that magically caused the light to change.<br>This is how the ego wills things to happen.</p>&mdash; Voice of Doubt (@DoubtVoice) <a href="https://twitter.com/DoubtVoice/status/1207581571445936128?ref_src=twsrc%5Etfw">December 19, 2019</a></blockquote>
 
-Ego is the claiming of propriety over reality, which is an act that is fundamentally pretense. Reality is not owned by anyone or anything. Reality just IS, and in fact continues to BE as such even after some silly mind decides what's owned by who.
+Ego is the claiming of propriety over reality, which is an act that is fundamentally pretense. Reality is not owned by anyone or anything. Reality just <i>is</i>, and in fact continues to <i>be</i> as such even after some silly mind decides what's owned by who.
 
 Specifically, the ego-personality (or what we usually just call personality) is the aggregate of behaviours and patterns that people feel it most identifies them, or to put it another way, represents them.
 
@@ -48,7 +48,7 @@ The reification tendency has a gradient to it - from the pattern of putting name
 
 Reductionism is the logical extreme of reification: the conception that reality is made of things, which themselves are made of other things, and that in studying what little things the bigger things are made of, we can come to fully understand them.
 
-One poignant metaphor for reductionism is dissection - while something can be grasped by taking a dead butterfly and gutting it open to investigate the insides, it does not show the insides, or the outsides, at work, and barely hints at HOW they work.
+One poignant metaphor for reductionism is dissection - while something can be grasped by taking a dead butterfly and gutting it open to investigate the insides, it does not show the insides, or the outsides, at work, and barely hints at <i>how</i> they work.
 
 Life is much more about actions and events and movement than it is about fixed things and objects and stillness. Life is change; without change, time would not be observable, and indeed would not exist.
 
@@ -62,7 +62,7 @@ A baby is born without an ego pattern, or a need for such. Besides observing oth
 
 A person could go their whole life just doing things and thinking things without ever saying that's me or that's mine, but society puts pressure on us to separate the acceptable from the unacceptable, and to identify with (and bring out) the acceptable part of ourselves only.
 
-This is worth restating - even with people already conditioned to think/have an ego, such a mental construct disappears once the pressure of society to HAVE an ego disappears. The basic nature of man does not include self-identification.
+This is worth restating - even with people already conditioned to think/have an ego, such a mental construct disappears once the pressure of society to <i>have</i> an ego disappears. The basic nature of man does not include self-identification.
 
 Hermits exist, and [their views](https://www.theguardian.com/news/2017/mar/15/stranger-in-the-woods-christopher-knight-hermit-maine) on what it means to be such are extremely interesting. Turns out social construct dissolves, ego dissolves, desire dissolves, and there's a return to a state of union with nature.
 
@@ -74,13 +74,13 @@ Ego is a pattern of identification with SOMEthing, but not with EVERYthing. This
 
 This of course implies that reuniting one's ego-self with the shadow means doing away with the concept of ego-self entirely, because it is unneeded boundary-setting. You are entirely what you are, without needing to define it first, or reify it, or restrict it.
 
-Much like the rest of the meaning-making we do, the ego is an ongoing story. It attributes a body, a mind, a personality, a past, a present, and a future, etc. to a me-character. The "me" is just a concept point to which the rest is connected, AND defined in relationship to.
+Much like the rest of the meaning-making we do, the ego is an ongoing story. It attributes a body, a mind, a personality, a past, a present, and a future, etc. to a me-character. The "me" is just a concept point to which the rest is connected, <i>and</i> defined in relationship to.
 
 A particularly obvious observation spot of the meaning-making and how the ego weaves into it is by reading a novel - the book in itself is just a narrated sequence of events, but we distill patterns in it and call some of them characters, all with their predictable attributes
 
 Those characters don't "really" exist but they feel viscerally real to us; the concept of a character is an extremely solid, fleshed-out pattern that arises out of mere words on a page. Such is our ability to pour identity-ness into observed reality.
 
-In the same way that all our other thinking shapes the way we look at the world (giving birth to such things as "déformation professionnelle" or "when all you have is an hammer…"), so the ego is part of a conditioning to think in terms of identified, stable, SEPARATE things.
+In the same way that all our other thinking shapes the way we look at the world (giving birth to such things as "déformation professionnelle" or "when all you have is an hammer…"), so the ego is part of a conditioning to think in terms of identified, stable, <i>separate</i> things.
 
 But reality is anything other than separate! A good example is a color wheel: it is a diversified continuum, where all color blends together while remaining distinct, and all names and separations put to color are based on drawing arbitrary boundaries to what is and isn't so.
 
@@ -96,17 +96,17 @@ Things have boundaries from other things that are a lot fuzzier than many are wi
 
 The history of the ego is adjacent to the history of private property (both mental processes of attribution!), and so the point in history where it took a decisive turn for the worse is v likely [the advent of agriculture](https://www.discovermagazine.com/planet-earth/the-worst-mistake-in-the-history-of-the-human-race).
 
-Basically with the creation of substantial productive surplus, the need to defend it arises, and this sublimates into such patterns as increased boundaries between what's mine and what's yours, and in tandem, a stronger sense of separateness between what's ME and what's YOU.
+Basically with the creation of substantial productive surplus, the need to defend it arises, and this sublimates into such patterns as increased boundaries between what's mine and what's yours, and in tandem, a stronger sense of separateness between what's <i>me</i> and what's <i>you</i>.
 
-This is a pattern that has grown steadily deeper and more entrenched with time, culminating in eg. reductionism, a progressive fragmentation of societal structures of camaraderie, and a gnawing sense of isolation and aloneness in a cold, uncaring, DISCONNECTED universe.
+This is a pattern that has grown steadily deeper and more entrenched with time, culminating in eg. reductionism, a progressive fragmentation of societal structures of camaraderie, and a gnawing sense of isolation and aloneness in a cold, uncaring, <i>disconnected</i> universe.
 
 The more need to separate our sense of self from others, the more our disconnection from everything grows - from Nature, turning alien and full of teeth and claw; from the Universe, blindly deterministic and which has us as flukes of chance, and most tragically *from ourselves*.
 
-Many of us believe of being just electrical signals in the brain, which we can't conventionally even observe or experience, while denying the fundamental reality of consciousness, which is the one SINGLE thing we are GUARANTEED to experience, by definition!
+Many of us believe of being just electrical signals in the brain, which we can't conventionally even observe or experience, while denying the fundamental reality of consciousness, which is the one <i>single</i> thing we are <i>guaranteed</i> to experience, by definition!
 
 More and more we are discovering that even beings without neural systems, such as plants, display remarkable behaviours such as displaying distress, happiness, detailed awareness of surroundings, etc. while consciousness remains fully unexplained in terms of brain activity.
 
-The implication here is something that many Eastern philosophies have been pointing at for centuries: that indeed, our Self—whatever THAT is—is something that transcends the brain, transcends the body, transcends any and all boundaries.
+The implication here is something that many Eastern philosophies have been pointing at for centuries: that indeed, our Self—whatever <i>that</i> is—is something that transcends the brain, transcends the body, transcends any and all boundaries.
 
 It goes as far as claiming that indeed, there is no such thing as a Self in this whole existence. Part of the standard progress to enlightenment is a direct experience/realization aptly termed of no-self.
 
@@ -114,7 +114,7 @@ The realization of no-self is the peeking behind the illusion of thoughts to obs
 
 Stuff just exists and is perceived, and the act of perception is simply that. It's a verb without a subject. It's just something happening, to no one, and by itself. There are different centers of awareness/experience of the Whole Thing but that's it.
 
-To experience no-self means to go behind the limitations of thought, which is inherently dualistic (because to think about something you must first DEFINE that something as separate/different from something else), and language even doubly so.
+To experience no-self means to go behind the limitations of thought, which is inherently dualistic (because to think about something you must first <i>define</i> that something as separate/different from something else), and language even doubly so.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Take: it is a small tragedy that the English language (among w/others) have no exception to the subject+verb structure, which it makes it more difficult to conceptualize+absorb the idea of Doing-without-a-Doer that is central to many Eastern philosophies. <a href="https://t.co/ueyTQVgTaG">https://t.co/ueyTQVgTaG</a></p>&mdash; Alberto Albero 🌲 (@celestialboon) <a href="https://twitter.com/celestialboon/status/1201572260181684227?ref_src=twsrc%5Etfw">December 2, 2019</a></blockquote> 
 
@@ -135,7 +135,7 @@ So the ego was false, obviously, but it's also a deleterious model which has muc
   
 What's the alternative? If seeing ourselves as One is out, and None isn't v useful, the only reasonable one left is seeing ourselves as Many.
 
-We, as social animals, are VERY geared towards modeling things as RELATIONSHIPS of various parts, and heavily equipped with handling such connections, be them eg. meaning ties, or spatial ties, or social ties.    
+We, as social animals, are <i>very</i> geared towards modeling things as <i>relationships</i> of various parts, and heavily equipped with handling such connections, be them eg. meaning ties, or spatial ties, or social ties.    
 Ideally this shouldn't be thrown away when handling ourselves!
 
 There is so much more complexity inside us that the ego has hidden away from us—the body-mind is a fractal, a shifting kaleidoscope of ideas, thoughts, beliefs, facets, feelings, paradoxes and contradiction, marvelous and boundless and ephemeral.
@@ -149,17 +149,17 @@ Attributing all this enormous variation to a single agent is a criminally coarse
   
 Conditions such as "being of two minds", of being torn about two impluses or desires—this is not something you can comfortably describe w/an ego model
 
-Not to mention that the ego model implies a control of this single inhabitant over what's going on in the mind, which is blatantly false! Try sitting for an hour in meditation JUST focusing on the breath sensations and then come back to me and tell me if you're in control!
+Not to mention that the ego model implies a control of this single inhabitant over what's going on in the mind, which is blatantly false! Try sitting for an hour in meditation <i>just</i> focusing on the breath sensations and then come back to me and tell me if you're in control!
 
 The mind's behaviour (to say nothing of the body's!) is by and large autonomous and subconscious. Not even attention is directly controlled, only gently suggested. So is memory, so is motivation, so is most of anything you care about in there.
 
-This breaks down another hard boundary—the body IS part of your subconscious mind! Feelings, perceptions, moods, emotions, those all happen within the body and are inseparable from the mind's functioning.
+This breaks down another hard boundary—the body <i>is</i> part of your subconscious mind! Feelings, perceptions, moods, emotions, those all happen within the body and are inseparable from the mind's functioning.
 
-The fundamental unit of life and Nature is the holon—an entity that is meaningfully DISTINCT from the rest while not being SEPARATE. Partially autonomous yet deeply embedded in its environmental system, recognizable as one and yet made of other holons, and part of others yet.
+The fundamental unit of life and Nature is the holon—an entity that is meaningfully <i>distinct</i> from the rest while not being <i>separate</i>. Partially autonomous yet deeply embedded in its environmental system, recognizable as one and yet made of other holons, and part of others yet.
 
 It is with such an idea that we should approach life of the bodymind, an holon made out of holons (just like flesh is made of cells and cells of smaller living parts still) while also embedded within other holons (relationships, groups, society, environment etc.)
 
-(By the way, this conception of Nature as an holarchy is beautifully detailed in [Earthdance: Living Systems in Evolution][earthdance], which is a book I PROFOUNDLY recommend to get a better understanding of How Life Actually Works.
+(By the way, this conception of Nature as an holarchy is beautifully detailed in [Earthdance: Living Systems in Evolution][earthdance], which is a book I <i>profoundly</i> recommend to get a better understanding of How Life Actually Works.
 
 Since I might as well, I termed this model of relating to the self "**Fluid Plurality**".  
 It is the attitude of seeing behaviour, including within self, as interaction of interconnected and distinct parts, while not staying too attached to any one identification of such parts.
@@ -176,11 +176,11 @@ None of this, of course, is my original ideation—not only several [successful 
 
 In fact, many people already do this in a number of ways, from the simple talking to themselves every once in a while and reasoning things out this way, to the extreme end of splitting up self into many persistent coexistent identities, which is the practice of tulpamancy.
 
-More in general, developing a healthy distance from parts of self is a practice of many more psychotherapy practices, such as distinguishing "I AM angry" to "I FEEL angry", which is a moving away from identification with emotion into something that we are simply relating to.
+More in general, developing a healthy distance from parts of self is a practice of many more psychotherapy practices, such as distinguishing "I <i>am</i> angry" to "I <i>feel</i> angry", which is a moving away from identification with emotion into something that we are simply relating to.
 
 More in depth, FP allows to become more aware of what's going on in the bodymind, because there is *no more need to identify with something that's happening in there, only to relate to it*! This is a profound difference that breaks down a lot of aversion and reluctance.
 
-A point of extreme importance is not all parts of self communicate with thoughts! A LOT of what's going on is taking place as emotions and feelings, and cutting those out of the discussion is doing an immense disservice to your self—some parts don't communicate any other way.
+A point of extreme importance is not all parts of self communicate with thoughts! A <i>lot</i> of what's going on is taking place as emotions and feelings, and cutting those out of the discussion is doing an immense disservice to your self—some parts don't communicate any other way.
 
 Intuitions, gut feelings, emotions, impressions, and much more operate below thought, and it is fundamental for living as a whole being to take all those into awareness. Shutting out into our own thought-minds is a mistake far too many of us do.
 
@@ -230,7 +230,7 @@ You can treat your sel(f/ves) the way you would treat a puppy. You need understa
 
 [Talk to yourself as you would to your best friend.](https://youtu.be/0uDGyBdyuWM?t=500) You're all in this together, and while different, and sometimes troubled, you can make it work, and beautifully, powerfully, excitingly, meaningfully so.
 
-There are COUNTLESS ways you could relate to yourself—look around for what you can use for yourself!
+There are <i>countless</i> ways you could relate to yourself—look around for what you can use for yourself!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There are actually some very specific things that I do that reflect my self-as-assemblage, which might seem weird to some people, but I find very therapeutic <a href="https://t.co/miJjLVyzJO">https://t.co/miJjLVyzJO</a></p>&mdash; visa is working on @introspectVV (@visakanv) <a href="https://twitter.com/visakanv/status/1087568405245321219?ref_src=twsrc%5Etfw">January 22, 2019</a></blockquote> 
 

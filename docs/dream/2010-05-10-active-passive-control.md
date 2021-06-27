@@ -85,7 +85,7 @@ Remember to look for whatever you are looking for in places you haven’t looked
 
 **The Dream Multiverse**: Some people think that in a dream, it is difficult to read stuff, or operate electronics, or even fly, just because they think it is, maybe they have read it somewhere. There are several cases, however, in which those myths are proven false, as there are people who can read anything fine in dreams, even keeping the consistency of phrases, and so on. The conclusion is, this is still a conception of your mind, and nothing else. So, how can you disbelieve that? If you think these are given rules of your DreamWorld, why just not migrate to another one? Teleport to Crypton, where everyone has super strength and can fly! Or take the train to the school of Hogwarts, where you can learn to use magic in a jiffy! Or why not going to a dream school, so you can learn to operate that dream PC of yours properly? The (dream)world of possibilities is open to you, nothing is truly impossible here, you just have to find the right way, or the right planet!
 
-**Cause and effect**: You can truly make ANYTHING do ANYTHING as long as you tell yourself the two events are related. A notable example would be a Dreamer that incapacitated a samurai just by opening a pink umbrella.
+**Cause and effect**: You can truly make <i>anything</i> do <i>anything</i> as long as you tell yourself the two events are related. A notable example would be a Dreamer that incapacitated a samurai just by opening a pink umbrella.
 
 Just say it, “When I do X Y will happen”, “By the time I get to the balcony the sky will have turned red and beautiful”, “When i strike that duck with my club it shall turn to gold” “My girlfriend will already be at my front door when I call her”
 

@@ -15,7 +15,7 @@ I'll start with saying that *probability is a subjective estimate of events*.
 
 Say B believes a certain coin has 50/50 chance of heads/tails. Then A flips that coin and hides the result. When he asks B if it's heads or tails *now*, B cannot reasonably know, and is forced to still hold that there's a 50/50 chance that it's either heads or tails, despite the result being fixed and being either 100% tails or 100% heads.
 
-What is crucial is that B doesn't know WHICH is it, and *what he doesn't know cannot change his original estimate*. Probability is something that doesn't change with the coin's state, but rather with B's knowledge of such state.
+What is crucial is that B doesn't know <i>which</i> is it, and *what he doesn't know cannot change his original estimate*. Probability is something that doesn't change with the coin's state, but rather with B's knowledge of such state.
 
 Probability is something that lives in B's head, and is dependent on what B knows. *What is outside of B's head are the mere events*. Nowehere are the odds for something written in stone for us to see; *things just happen* and, as observers, we make our own estimate of their behaviour based on what we see and understand of it.
 
@@ -27,11 +27,11 @@ To the degree that these beliefs offer a falsifiable statement about reality, th
 
 For example, most people would assign 1:1 odds to a coin flip; if eg. A gave 1:2 odds for tails/heads on a balanced coin, then B could repeatedly bet on tails for a x3 payoff on 50% chance and break better-than-even on average each time, draining A of his money and misconceptions.
 
-Nonetheless, the 1:2 odds is a probability assignment that A COULD have reasonably held if he believed that, for example, the coin was rigged, even if it wasn't. His odds reflect the view he has of reality, more than any extrinsic objective THING out there; and necessarily so, because who else are you going to ask for an odds estimate but an entity with LIMITED experience of the world?
+Nonetheless, the 1:2 odds is a probability assignment that A <i>could</i> have reasonably held if he believed that, for example, the coin was rigged, even if it wasn't. His odds reflect the view he has of reality, more than any extrinsic objective <i>thing</i> out there; and necessarily so, because who else are you going to ask for an odds estimate but an entity with <i>limited</i> experience of the world?
 
 Besides, a "balanced coin" is purely a concept, a thought-form. Realistically, no coin we have encountered is perfectly balanced, nor is it possible to realistically know if one exists, because odds aren't displayed in neon lights somewhere, and you would need infinite trials to "actually know".
 
-Take an example: you have a (possibly rigged) coin that you have to determine the heads/tails odds of. You might flip it a bunch of times and record the results, and then past a certain number of flips, the odds could be realistically approximated as (number of heads) : (number of tails), but those are just our **projected** odds. It is also true that ANY coin with ANY odds that are not absolute (like say, a coin that will always produce tails) can theoretically produce that exact string of results, if with increasingly vanishing probability the more we distance ourselves from the coin's projected odds.
+Take an example: you have a (possibly rigged) coin that you have to determine the heads/tails odds of. You might flip it a bunch of times and record the results, and then past a certain number of flips, the odds could be realistically approximated as (number of heads) : (number of tails), but those are just our **projected** odds. It is also true that <i>any</i> coin with <i>any</i> odds that are not absolute (like say, a coin that will always produce tails) can theoretically produce that exact string of results, if with increasingly vanishing probability the more we distance ourselves from the coin's projected odds.
 
 There's simply no way to know for sure; we just reach a point where we're confident enough about our answer that we just go "eh, fuck it" and call it a day.
 

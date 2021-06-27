@@ -18,7 +18,7 @@ In this sense, this is still memory at work, but in a different modality that we
 
 The memory feeling-sense is incredibly useful to form new memories, because, as always, we work best mentally by drawing connections, and the memory-sense provides a ready tapestry onto which new threads of experience can be gradually woven in, interwoven with the old.
 
-A lot of "learning something" ends up deeply enmeshed with the circumstances of the learning: the place, the people, the actions, but ESPECIALLY the emotions—emotions are incredibly strong material to weave memories with.
+A lot of "learning something" ends up deeply enmeshed with the circumstances of the learning: the place, the people, the actions, but <i>especially</i> the emotions—emotions are incredibly strong material to weave memories with.
 
 This in part explains why it's easier to learn when subjected to new experiences (eg.traveling): routine has us mostly trace over old existing threads without adding much, while something new has us weave new tapestry, with all that gets caught within.
 
