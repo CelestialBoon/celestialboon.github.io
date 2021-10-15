@@ -1,3 +1,5 @@
+2021-10-16: Added On Growth and Mistakes
+
 2021-06-27: Added On Friendship Letters
 
 2021-06-21: Added On Cutie Marks
