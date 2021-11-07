@@ -1,3 +1,5 @@
+2021-11-07: Added On Being Yourself and Paradise
+
 2021-10-16: Added On Growth and Mistakes
 
 2021-06-27: Added On Friendship Letters
