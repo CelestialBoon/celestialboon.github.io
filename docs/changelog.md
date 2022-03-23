@@ -1,3 +1,5 @@
+2022-03-23: Removed the 5th element post, as I've learned new things and the article more or less compares apples with oranges. Whatever it is that has to be done, there has to be a substantial rethinking of the approach to such a topic from me.
+
 2021-11-07: Added On Being Yourself and Paradise
 
 2021-10-16: Added On Growth and Mistakes

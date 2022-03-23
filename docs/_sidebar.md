@@ -61,7 +61,7 @@
 ---
 
 - [**Occult**](occult/)
-- [The 5th element of alchemy](occult/2021-04-05-5th-element.md)
+<!-- - [The 5th element of alchemy](occult/2021-04-05-5th-element.md) -->
 - [On my shadow presence](occult/2021-03-22-nanachi.md)
 - [Occult resources](occult/2018-07-16-resources-occult.md)
 - [6Sense Archive](occult/2018-07-10-archive-6s.md)
