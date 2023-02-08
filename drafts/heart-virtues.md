@@ -64,6 +64,11 @@ Forgiveness is really the outward expression of understanding and compassion wit
 Appreciation: dance of the universe, gestures that nurture friendship
 the chisel, the relationship with all, the connection
 
+
+
+
+
+
 Compassion: align with the new energies
 
 Forgiveness: the EVT1 spiel

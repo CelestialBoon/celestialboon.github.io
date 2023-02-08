@@ -1,0 +1,1 @@
+- [Dragon in Stillness](https://rawcdn.githack.com/CelestialBoon/celestialboon.github.io/f170729fdb8d03a965fa15ef2cbe2f6571f83eef/assorted/dragon-in-stillness.html), a little twine (technically a kinetic novel) that I wrote by testing my shadow work tarot.

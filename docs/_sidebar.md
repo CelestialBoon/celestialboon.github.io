@@ -77,4 +77,5 @@
 
 <!-- - [About](about.md) -->
 - [My trip reports](//boonstripreports.writeas.com)
+- [Other](other.md)
 - [Changelog](changelog.md)
