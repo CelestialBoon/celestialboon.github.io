@@ -16,12 +16,17 @@
             name: 'A Sensemaking Journey',
             repo: '',
             loadSidebar: true,
-            subMaxLevel: 3
+            subMaxLevel: 3,
+            mustache: {
+                // no package.json in docs/, and the plugin's failed load would gate the first render
+                noPackage: true
+            }
         }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-mustache"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/front-matter.min.js"></script> -->
+  <!-- front-matter strips the YAML block and fills vm.frontmatter; docsify-mustache reads that to expand {{title}}/{{date}} -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/front-matter.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-mustache"></script>
 </body>
 </html>
